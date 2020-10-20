@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PatchyVideo/patchyvideo-vue/master/public/favicon.png" alt="Logo" width="72" height="72">
 </p>
-<center><h3>PatchyVideo-docs</h3></center>
+<h3 align="center">PatchyVideo-docs</h3>
 
 <p align="center">
 <img alt="GitHub license" src="https://img.shields.io/github/license/PatchyVideo/PatchyVideo-docs">
@@ -25,7 +25,7 @@
 
 - 网站本身搭建过程的经验与心得
 - 关于下一步帕琪站进行重构所做的准备
-- 收集到的大家的建议（如果您也想提出建议欢迎在本仓库提issue或者在[这里](https://patchyvideo.com/#/forum/5e8fce11beb63ebb98f8b50c)提出看法和观点，感激不尽）
+- 收集到的大家的建议（如果您也想提出建议欢迎在本仓库提 issue 或者在[这里](https://patchyvideo.com/#/forum/5e8fce11beb63ebb98f8b50c)提出看法和观点，感激不尽）
 
 ## 资料内容
 
@@ -33,13 +33,12 @@
 
 - 网站本身搭建过程的经验与心得
 
-  ​		【好评咕咕中】
+  ​ 【好评咕咕中】
 
-- 帕琪站v0.7.0（第三轮子）的开发文档
+- 帕琪站 v0.7.0（第三轮子）的开发文档
 
-  ​		【好评咕咕中】
+  ​ 【好评咕咕中】
 
 - 收集到的大家的建议
 
   - 《[帕琪站关于发布索引页面，主页以及视频详情页面界面设计的建议与分析](https://github.com/PatchyVideo/PatchyVideo-docs/blob/main/%E6%9C%80%E8%BF%91%E7%9A%84%E5%BB%BA%E8%AE%AE.md)》
-
