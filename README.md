@@ -7,7 +7,7 @@
 <img alt="GitHub license" src="https://img.shields.io/github/license/PatchyVideo/PatchyVideo-docs">
 <img alt="Version" src="https://img.shields.io/badge/version-v0.1.0-blue">
 </p>
-这里是PatchyVideo（[patchyvideo.com](patchyvideo.com)|[thvideo.tv](thvideo.tv)，下称帕琪站，一个基于 Vue 开发的 东方 Project 视频索引网站）的开发文档
+这里是PatchyVideo（[patchyvideo.com](patchyvideo.com) | [thvideo.tv](thvideo.tv)，下称帕琪站，一个基于 Vue 开发的 东方 Project 视频索引网站）的开发文档
 
 具体网站的代码仓库可参见下方链接：
 
