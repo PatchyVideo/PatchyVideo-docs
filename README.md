@@ -39,8 +39,11 @@
 
 - 帕琪站 v0.7.0（第三轮子）的开发文档
 
-   【好评咕咕中】
+   - [《第三轮子-文档文件夹》](https://github.com/PatchyVideo/PatchyVideo-docs/tree/main/第三轮子相关)
+   - [《第三轮子-功能总论》](https://github.com/PatchyVideo/PatchyVideo-docs/blob/main/第三轮子相关/第三轮子-功能划分.md)
+   - [《第三轮子-代码规范》](https://github.com/PatchyVideo/PatchyVideo-docs/blob/main/第三轮子相关/第三轮子-代码规范.md)
+   - 
 
 - 收集到的大家的建议
 
-  - 《[帕琪站关于发布索引页面，主页以及视频详情页面界面设计的建议与分析](https://github.com/PatchyVideo/PatchyVideo-docs/blob/main/%E6%9C%80%E8%BF%91%E7%9A%84%E5%BB%BA%E8%AE%AE.md)》
+  - [《帕琪站关于发布索引页面，主页以及视频详情页面界面设计的建议与分析》](https://github.com/PatchyVideo/PatchyVideo-docs/blob/main/%E6%9C%80%E8%BF%91%E7%9A%84%E5%BB%BA%E8%AE%AE.md)
